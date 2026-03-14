@@ -1,4 +1,4 @@
 # NEW FOLDER PROJECTS
 
-This project was created from local system.
-try by ANsarul HAQUE
+This project was created from local system. <br>
+try by ANsarul HAQUE.
