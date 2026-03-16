@@ -1,0 +1,33 @@
+body{
+    font-family: Arial;
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+}
+
+.container{
+    padding: 20px;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+    background:#ffffff;
+}
+.container:hover{
+    box-shadow: 0px 8px 20px rgba(0,0,0,0.5);
+}
+h2{
+    text-align: center;
+}
+
+input{
+    padding: 10px;
+    width: 200px;
+}
+
+button{
+    padding: 10px;
+    cursor: pointer;
+}
+
+li{
+    margin: 10px;
+}
